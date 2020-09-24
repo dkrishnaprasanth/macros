@@ -1,1 +1,3 @@
-this is task3
+<p><span style="background-color: #ffffff; color: #33cccc;"><strong>THIS is Nice</strong></span></p>
+<p>&nbsp;</p>
+<p><span style="background-color: #ffffff; color: #00ccff;"><strong>this is also nice</strong></span></p>
